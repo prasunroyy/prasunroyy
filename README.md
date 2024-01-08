@@ -6,6 +6,11 @@
 * Responsible for the development and maintenance of the frontend and the gateway components.
 <br>**Tech Stack** - Angular 8, NodeJS, TypeScript, Jest, C++.
 
+### Human Resource Portal (NRI Financial Technologies)
+* This is a Human Resource portal for the employees of the organization.
+* Improved a few APIs over the internship period.
+<br>**Tech Stack** - Oracle 19c, Spring - Framework, Hibernate, Java 1.8 and React JS.
+
 ## Projects
 ### E-Commerce Website
 [![LINK](https://img.shields.io/badge/Github-logo?style=flat&logo=github&logoColor=white&labelColor=grey&color=grey
