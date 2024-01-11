@@ -1,9 +1,9 @@
 # 🎇About Me:
- Hi, I'm Prasun, a passionate software developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br>
+ Hi, I'm Prasun, a passionate software developer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br>
  ## Work Experience
  ### Fidessa Trading Platform. (ION Group)
 * This is a high-frequency trading application that is used to trade instruments and derivatives.
-* Responsible for the development and maintenance of the frontend and the gateway components.
+* Responsible for the development and maintenance of the front end and the gateway components.
 <br>**Tech Stack** - Angular 8, NodeJS, TypeScript, Jest, C++.
 
 ### Human Resource Portal (NRI Financial Technologies)
@@ -15,23 +15,23 @@
 ### E-Commerce Website
 [![LINK](https://img.shields.io/badge/Github-logo?style=flat&logo=github&logoColor=white&labelColor=grey&color=grey
 )](https://github.com/prasunroyy/crwn-clothing)
-<br>This is a sample application that demonstrates an E-commerce website using React Framework with FireBase as a database. The application loads products through FireBase database and displays them.
-<br>**Tech Stack** - React, NodeJS, JypeScript, React Router, Redux, Express.js, Firebase.
+<br>This is a sample application that demonstrates an E-commerce website using React Framework with FireBase as a database. The application loads products through the FireBase database and displays them.
+<br>**Tech Stack** - React, NodeJS, JavaScript, React Router, Redux, Express.js, Firebase.
 
 
 ![E-Commerce Website](assets/CategoryPage.png?raw=true "E-Commerce Website")
 ### Face Detector
 [![LINK](https://img.shields.io/badge/Github-logo?style=flat&logo=github&logoColor=white&labelColor=grey&color=grey
 )](https://github.com/prasunroyy/facerecognitionbrain)
-<br> This application takes an image as an input and marks the face on it. This is made possible through clarifai API. User Authentication is implemented. This webapp is using React Framework with MySQL as a database.
-<br>**Tech Stack** - React, NodeJS, JypeScript, Express.js, MySQL.
+<br> This application takes an image as an input and marks the face on it. This is made possible through Clarifai API. User Authentication is implemented. This web-app uses React Framework with MySQL as a database.
+<br>**Tech Stack** - React, NodeJS, JavaScript, Express.js, MySQL.
 
 ![Face Detector](assets/FaceReconSS.png?raw=true "Face Detector")
 ### Search Application
 [![LINK](https://img.shields.io/badge/Github-logo?style=flat&logo=github&logoColor=white&labelColor=grey&color=grey
 )](https://github.com/prasunroyy/robofriends)
 <br>This is a simple search application with the search domain shown in the form of cards.
-<br>**Tech Stack** - React, JypeScript, HTML, CSS.
+<br>**Tech Stack** - React, JavaScript, HTML, CSS.
 
 ![Face Detector](assets/RoboHP.png?raw=true "Face Detector")
 ## 🌐 Socials:
